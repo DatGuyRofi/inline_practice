@@ -17,10 +17,12 @@ a {
     border: 2px solid gray;
     padding: 10px;
     margin: 10px auto;
+    border: 1px solid red;
 }
 
 .colorcontainer {
     width: 100%;
+    border: 1px solid red;
 }
 
 .colorpanel {
@@ -29,6 +31,7 @@ a {
     width: 32%;
     min-height: 100px;
     margin: 20px auto;
+    border: 1px solid red;
 }
 
 .colorlabel {
@@ -60,11 +63,13 @@ a {
 .font-panel {
   width: 45%;
   display: inline-block;
+  border: 1px solid red;
 }
 
 .font-label {
   font-size: 20px;
   text-decoration: underline;
+  border: 1px solid red;
 }
 
 .regular {
